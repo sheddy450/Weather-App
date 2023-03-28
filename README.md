@@ -1,0 +1,1 @@
+This is a weather app built with Html, CSS and Vanilla JavaScript. It shows you the weather condition of any city inputed in the search box. The temperature, Humidity and wind speed are the weather conditions displayed
